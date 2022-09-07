@@ -1,7 +1,7 @@
 # Nithish<br>
 ### The British Museum<br>
 Some of the must watch things are **Rosetta Stone** and **Sophilos vase**
----
+___
 ## Travel directions
 The airport that is closest to the British Museum is the **London City Airport**
 1. There are several ways to get from London City Airport to The British Museum. They are :
@@ -12,4 +12,14 @@ The airport that is closest to the British Museum is the **London City Airport**
 6. A shuttle that costs around **45-65** dollars
 7. A private towncar which would cost a max of **130** dollars
 8. Driving your own vehicle
+<br>
+
+## Things around british museum
+- StoneHenge
+- Windsor Castle
+- Tower of London
+- Tower Bridge
+- National Gallery
+
+
 
