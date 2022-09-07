@@ -38,8 +38,9 @@ The below are some of the cities that I would like to recommend everyone to visi
 ___
 
 ## My favourite quotes
-> Life is like riding a bicycle. To keep your balance you must keep moving -*Albert Einstein*
-> The purpose of our live is to be happy -*Dalai Lama*
-> Jai Balayya - *Balayyababu fans*
-> 
+> Life is like riding a bicycle. To keep your balance you must keep moving -*Albert Einstein*<br>
+> The purpose of our live is to be happy -*Dalai Lama*<br>
+> Jai Balayya - *Balayyababu fans*<br>
+
+
 
