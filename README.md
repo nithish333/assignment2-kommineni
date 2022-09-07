@@ -43,7 +43,17 @@ ___
 > The purpose of our live is to be happy -*Dalai Lama*<br>
 
 
-> Jai Balayya - *Balayyababu fans*<br>
+> Jai Balayya - *Balayyababu fans*
+<br>
 
+___
 
+## Code fencing
+> Create a random color generator in javascript?
 
+[Stackoverflow discussion](https://stackoverflow.com/questions/1484506/random-color-generator)
+
+```javascript
+var randomColor = Math.floor(Math.random()*16777215).toString(16);
+```
+[View in css-tricks](https://css-tricks.com/snippets/javascript/random-hex-color/)
