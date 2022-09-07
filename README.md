@@ -33,4 +33,13 @@ The below are some of the cities that I would like to recommend everyone to visi
 | Hyderabad   | Golconda fort               | 1 hour          |
 |Delhi|Red Fort|1 hour|
 |Thanjavur|Big temple|3 hours|
+<br>
+
+___
+
+## My favourite quotes
+> Life is like riding a bicycle. To keep your balance you must keep moving -*Albert Einstein*
+> The purpose of our live is to be happy -*Dalai Lama*
+> Jai Balayya - *Balayyababu fans*
+> 
 
