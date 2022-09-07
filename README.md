@@ -22,4 +22,15 @@ The airport that is closest to the British Museum is the **London City Airport**
 - National Gallery
 
 [About Me](./AboutMe.md)
+<br>
+___
+
+## Travel Recommendations
+The below are some of the cities that I would like to recommend everyone to visit once in their lifetime.
+| Name        | Important Location | Time to spent |
+| ----------- | -----------        | -----------   |
+| London      | The British Museum | 2 hours       |
+| Hyderabad   | Golconda fort               | 1 hour          |
+|Delhi|Red Fort|1 hour|
+|Thanjavur|Big temple|3 hours|
 
